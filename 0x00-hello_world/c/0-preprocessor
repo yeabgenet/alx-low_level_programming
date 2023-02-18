@@ -1,2 +1,0 @@
-#!/bin/bash
--std=gnu89 $CFILLE -o c 
