@@ -1,8 +1,4 @@
-#More pointers, arrays and strings.
-
-#TASKS
-
-0. strcat
+t0. strcat
 
 Write a function that concatenates two strings.
 
